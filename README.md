@@ -1,4 +1,4 @@
-# Synthetic data of Synthea patients
+# Open Synthetic Synthea Patient Data
 Open data of synthetic Synthea patients for machine learning (ML) and learning health systems (LHS).
 
 Although there are a few freely-available large EHR datasets such as MIMIC-III and CPRD, they require qualified applications. In order to make it easier for developers to obtain ML-ready EHR data to work on ML and LHS without privacy concerns, this LHS open data project created synthetic Synthea patient data for ML and LHS simulation experiments. 
