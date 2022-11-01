@@ -6,7 +6,7 @@ Although there are a few freely-available large EHR datasets such as MIMIC-III a
 The first LHS simulation study titled "Simulation of a machine learning enabled learning health system for risk prediction using synthetic patient data" has been published in Nature Scientific Reports journal (see https://www.nature.com/articles/s41598-022-23011-4). 
 To learn more about LHS, please check out the practical [LHS Quick Guide](https://github.com/lhs-open/lhs-guide).
 
-Next, I hope the open synthetic data may enable more developer and clinician teams to develop and test ML algorithms, construct ML-enabled LHS, train members, and collaborate across hospitals.   
+With these open synthetic datasets, researchers may find it useful in development and testing ML algorithms, constructing ML-enabled LHS, ML/LHS training, and collaboration across hospitals.  After using synthetic data to develop new processes first and then applying them to real EHR data, you may find this new approach more efficient in solving certain types of problems. (Let me know if you want to dicuss this synthetic+real data approach. -aj)   
 
 ## ML-ready Synthea patient datasets
 
