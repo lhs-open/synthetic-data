@@ -50,6 +50,6 @@ The complete datasets are available in [Harvard Dataverse: Synthetic Patient Dat
 
 **CAUTION**: ALL SYNTHETIC DATA IN THIS PROJECT ARE NOT REAL DATA. THEY ARE FOR TRAINING AND LEARNING PURPOSE ONLY. THESE DATA AND ANY DERIVED MODELS SHOULD NOT AND CAN NOT BE USED IN ANY REAL-WORLD SERVICES. 
 
-**Contact**: This open data repository was started by AJ Chen (Co-Chair of [LHS Tech Forum Initiative](https://www.learninghealth.org/2020-lhs-technology-forum), Learning Health Community). Hope more people will share synthetic data here. But, if it does not have the synthetic data you need, you may contact AJ.   
+**Contact**: This open synthetic data repository was started by AJ Chen (Co-Chair of [LHS Tech Forum Initiative](https://www.learninghealth.org/2020-lhs-technology-forum), Learning Health Community). If it does not have the synthetic data you need, you may contact AJ.   
 
 **License**: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You are free to adapt, copy or redistribute the material, providing you attribute appropriately and do not use the material for commercial purposes.
