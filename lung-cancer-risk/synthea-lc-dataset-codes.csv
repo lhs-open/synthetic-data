@@ -1,0 +1,792 @@
+code,name
+C-103579009,race
+C-125680007,marital
+C-186034007,ethnic
+C-263495000,gender
+C-398070004,state
+C-424144002,age
+C-72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported
+C-140,Influenza  seasonal  injectable  preservative free
+C-18262-6,Low Density Lipoprotein Cholesterol
+C-2085-9,High Density Lipoprotein Cholesterol
+C-2093-3,Total Cholesterol
+C-2571-8,Triglycerides
+C-29463-7,Body Weight
+C-39156-5,Body Mass Index
+C-710824005,Assessment of health and social care needs (procedure)
+C-72166-2,Tobacco smoking status NHIS
+C-8302-2,Body Height
+C-8462-4,Diastolic Blood Pressure
+C-8480-6,Systolic Blood Pressure
+C-8867-4,Heart rate
+C-9279-1,Respiratory rate
+C-73595000,Stress (finding)
+C-21000-5,Erythrocyte distribution width [Entitic volume] by Automated count
+C-32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count
+C-32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count
+C-4544-3,Hematocrit [Volume Fraction] of Blood by Automated count
+C-6690-2,Leukocytes [#/volume] in Blood by Automated count
+C-718-7,Hemoglobin [Mass/volume] in Blood
+C-777-3,Platelets [#/volume] in Blood by Automated count
+C-785-6,MCH [Entitic mass] by Automated count
+C-786-4,MCHC [Mass/volume] by Automated count
+C-787-2,MCV [Entitic volume] by Automated count
+C-789-8,Erythrocytes [#/volume] in Blood by Automated count
+C-171207006,Depression screening (procedure)
+C-454711000124102,Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+C-430193006,Medication Reconciliation (procedure)
+C-160903007,Full-time employment (finding)
+C-866148006,Screening for domestic abuse (procedure)
+C-710841007,Assessment of anxiety (procedure)
+C-428211000124100,Assessment of substance use (procedure)
+C-20565-8,Carbon Dioxide
+C-2069-3,Chloride
+C-2339-0,Glucose
+C-2947-0,Sodium
+C-38483-4,Creatinine
+C-49765-1,Calcium
+C-6298-4,Potassium
+C-6299-2,Urea Nitrogen
+C-160904001,Part-time employment (finding)
+C-713106006,Screening for drug abuse (procedure)
+C-763302001,Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+C-4548-4,Hemoglobin A1c/Hemoglobin.total in Blood
+C-73761001,Colonoscopy
+C-741062008,Not in labor force (finding)
+C-423315002,Limited social contact (finding)
+C-422650009,Social isolation (finding)
+C-762993000,Assessment using Morse Fall Scale (procedure)
+C-33914-3,Glomerular filtration rate/1.73 sq M.predicted
+C-444814009,Viral sinusitis (disorder)
+C-113,Td (adult) preservative free
+C-706893006,Victim of intimate partner abuse (finding)
+C-2857-1,Prostate specific Ag [Mass/volume] in Serum or Plasma
+C-410006001,Digital examination of rectum
+C-424393004,Reports of violence in the environment (finding)
+C-1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+C-1751-7,Albumin
+C-1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+C-1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma
+C-2885-2,Protein [Mass/volume] in Serum or Plasma
+C-6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma
+C-10834-0,Globulin [Mass/volume] in Serum by calculation
+C-8310-5,Body temperature
+C-315639002,Initial patient assessment (procedure)
+C-370789001,Development of individualized plan of care (procedure)
+C-715252007,Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+C-195662009,Acute viral pharyngitis (disorder)
+C-313782,Acetaminophen 325 MG Oral Tablet
+C-10509002,Acute bronchitis (disorder)
+C-314076,lisinopril 10 MG Oral Tablet
+C-46288-7,US Guidance for biopsy of Prostate
+C-65575008,Biopsy of prostate
+C-58000006,Patient discharge (procedure)
+C-126906006,Neoplasm of prostate
+C-314231,Simvastatin 10 MG Oral Tablet
+C-385763009,Hospice care (regime/therapy)
+C-1860480,1 ML DOCEtaxel 20 MG/ML Injection
+C-752899,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+C-92691004,Carcinoma in situ of prostate (disorder)
+C-185087000,Notifications (procedure)
+C-310417005,Certification procedure (procedure)
+C-310798,Hydrochlorothiazide 25 MG Oral Tablet
+C-33,pneumococcal polysaccharide vaccine  23 valent
+C-14959-1,Microalbumin Creatinine Ratio
+C-308136,amLODIPine 2.5 MG Oral Tablet
+C-20454-5,Protein [Presence] in Urine by Test strip
+C-20505-4,Bilirubin.total [Mass/volume] in Urine by Test strip
+C-2514-8,Ketones [Presence] in Urine by Test strip
+C-25428-4,Glucose [Presence] in Urine by Test strip
+C-32167-9,Clarity of Urine
+C-5767-9,Appearance of Urine
+C-5770-3,Bilirubin.total [Presence] in Urine by Test strip
+C-5778-6,Color of Urine
+C-5792-7,Glucose [Mass/volume] in Urine by Test strip
+C-5794-3,Hemoglobin [Presence] in Urine by Test strip
+C-5797-6,Ketones [Mass/volume] in Urine by Test strip
+C-5799-2,Leukocyte esterase [Presence] in Urine by Test strip
+C-5802-4,Nitrite [Presence] in Urine by Test strip
+C-5803-2,pH of Urine by Test strip
+C-5804-0,Protein [Mass/volume] in Urine by Test strip
+C-5811-5,Specific gravity of Urine by Test strip
+C-106892,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]
+C-90470006,Prostatectomy
+C-23426006,Measurement of respiratory function (procedure)
+C-562251,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+C-68496003,Polyp of colon
+C-410401003,Nursing care/supplementary surveillance (regime/therapy)
+C-91251008,Physical therapy procedure (regime/therapy)
+C-312681000,Bone density scan (procedure)
+C-38265-5,DXA [T-score] Bone density
+C-84478008,Occupational therapy (regime/therapy)
+C-849574,Naproxen sodium 220 MG Oral Tablet
+C-10939881000119104,Unhealthy alcohol drinking behavior (finding)
+C-274031008,Rectal polypectomy
+C-310965,Ibuprofen 200 MG Oral Tablet
+C-311555007,Speech and language therapy regime (regime/therapy
+C-104435004,Screening for occult blood in feces (procedure)
+C-33756-8,Polyp size greatest dimension by CAP cancer protocols
+C-57905-2,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method
+C-225386006,Pre-discharge assessment (procedure)
+C-449381000124108,Discharge from skilled nursing facility (procedure)
+C-63332003,History AND physical examination (procedure)
+C-409023009,Professional / ancillary services care (regime/therapy)
+C-288086009,Suture open wound
+C-860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+C-55822004,Hyperlipidemia
+C-197604,Digoxin 0.125 MG Oral Tablet
+C-855332,Warfarin Sodium 5 MG Oral Tablet
+C-897718,Verapamil Hydrochloride 40 MG
+C-180325003,Electrical cardioversion
+C-705129,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+C-266948004,Has a criminal record (finding)
+C-117015009,Throat culture (procedure)
+C-80583007,Severe anxiety (panic) (finding
+C-274474001,Bone immobilization
+C-1043400,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+C-312961,Simvastatin 20 MG Oral Tablet
+C-197361,Amlodipine 5 MG Oral Tablet
+C-309362,Clopidogrel 75 MG Oral Tablet
+C-18286008,Catheter ablation of tissue of heart
+C-269911007,Sputum examination (procedure)
+C-44465007,Sprain of ankle
+C-43878008,Streptococcal sore throat (disorder)
+C-40701008,Echocardiography (procedure)
+C-834102,Penicillin V Potassium 500 MG Oral Tablet
+C-49436004,Atrial Fibrillation
+C-40055000,Chronic sinusitis (disorder)
+C-64859006,Osteoporosis (disorder)
+C-1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+C-53741008,Coronary Heart Disease
+C-127783003,Spirometry (procedure)
+C-19926-5,FEV1/FVC
+C-245314,albuterol 5 MG/ML Inhalation Solution
+C-271737000,Anemia (disorder)
+C-896209,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+C-15777000,Prediabetes
+C-230690007,Stroke
+C-75498004,Acute bacterial sinusitis (disorder)
+C-361055000,Misuses drugs (finding)
+C-399208008,Plain chest X-ray (procedure)
+C-26929004,Alzheimer's disease (disorder)
+C-36971009,Sinusitis (disorder)
+C-200619008,Comprehensive interview and evaluation (procedure)
+C-417511005,Referral to home health care service (procedure)
+C-711069006,Coordination of care plan (procedure)
+C-433112001,Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance
+C-713197008,Recurrent rectal polyp
+C-856987,Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+C-62106007,Concussion with no loss of consciousness
+C-1804799,Alteplase 100 MG Injection
+C-305428000,Admission to orthopedic department
+C-65966004,Fracture of forearm
+C-121,zoster
+C-243670,Aspirin 81 MG Oral Tablet
+C-1225002,Upper arm X-ray
+C-14768001,Peripheral blood smear interpretation
+C-162676008,Brief general examination (procedure)
+C-162864005,Body mass index 30+ - obesity (finding)
+C-20570-8,Hematocrit [Volume Fraction] of Blood
+C-263102004,Fracture subluxation of wrist
+C-415300000,Review of systems (procedure)
+C-60027007,X-ray or wrist
+C-70704007,Sprain of wrist
+C-904419,Alendronic acid 10 MG Oral Tablet
+C-392091000,Care regimes assessment (procedure)
+C-15081005,Pulmonary rehabilitation (regime/therapy)
+C-39848009,Whiplash injury to neck
+C-861467,Meperidine Hydrochloride 50 MG Oral Tablet
+C-5880005,Physical examination
+C-72892002,Normal pregnancy
+C-169230002,Ultrasound scan for fetal viability
+C-2123111,NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+C-239873007,Osteoarthritis of knee
+C-252160004,Standard pregnancy test
+C-310436,Galantamine 4 MG Oral Tablet
+C-895994,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+C-127013003,Diabetic renal disease (disorder)
+C-278860009,Chronic low back pain (finding)
+C-65750-2,Drugs of abuse 5 panel - Urine by Screen method
+C-283385000,Laceration of thigh
+C-284549007,Laceration of hand
+C-431855005,Chronic kidney disease stage 1 (disorder)
+C-68254000,Removal of intrauterine device
+C-857005,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+C-180256009,Subcutaneous immunotherapy
+C-283371005,Laceration of forearm
+C-384700001,Injection of tetanus antitoxin
+C-385781007,Home health aide service (regime/therapy)
+C-395142003,Allergy screening test
+C-43075005,Partial resection of colon
+C-6075-6,Cladosporium herbarum IgE Ab in Serum
+C-6082-2,Codfish IgE Ab in Serum
+C-6085-5,Common Ragweed IgE Ab in Serum
+C-6095-4,American house dust mite IgE Ab in Serum
+C-6106-9,Egg white IgE Ab in Serum
+C-6158-0,Latex IgE Ab in Serum
+C-6189-5,White oak IgE Ab in Serum
+C-6206-7,Peanut IgE Ab in Serum
+C-6246-3,Shrimp IgE Ab in Serum
+C-6248-9,Soybean IgE Ab in Serum
+C-6273-7,Walnut IgE Ab in Serum
+C-6276-0,Wheat IgE Ab in Serum
+C-6833-8,Cat dander IgE Ab in Serum
+C-6844-5,Honey bee IgE Ab in Serum
+C-7258-7,Cow milk IgE Ab in Serum
+C-1094107,Phenazopyridine hydrochloride 100 MG Oral Tablet
+C-16114001,Fracture of ankle
+C-168594001,Clavicle X-ray
+C-311989,Nitrofurantoin 5 MG/ML Oral Suspension
+C-370247008,Facial laceration
+C-58150001,Fracture of clavicle
+C-1860154,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+C-196416002,Impacted molars
+C-65546002,Extraction of wisdom tooth
+C-82423001,Chronic pain
+C-124171000119105,Chronic intractable migraine without aura
+C-1736776,10 ML oxaliplatin 5 MG/ML Injection
+C-1803932,Leucovorin 100 MG Injection
+C-19490002,Ankle X-ray
+C-235389,Mestranol / Norethynodrel [Enovid]
+C-133,Pneumococcal conjugate PCV 13
+C-65200003,Insertion of intrauterine contraceptive device
+C-90226004,Cytopathology procedure  preparation of smear  genital source
+C-449868002,Smokes tobacco daily
+C-17861-6,Calcium [Mass/volume] in Serum or Plasma
+C-19123-9,Magnesium [Mass/volume] in Serum or Plasma
+C-198031,24hr nicotine transdermal patch
+C-201834006,Localized  primary osteoarthritis of the hand
+C-2028-9,Carbon Dioxide
+C-2075-0,Chloride [Moles/volume] in Serum or Plasma
+C-2160-0,Creatinine
+C-2276-4,Ferritin [Mass/volume] in Serum or Plasma
+C-2345-7,Glucose [Mass/volume] in Serum or Plasma
+C-2498-4,Iron [Mass/volume] in Serum or Plasma
+C-2500-7,Iron binding capacity [Mass/volume] in Serum or Plasma
+C-2502-3,Iron saturation [Mass Fraction] in Serum or Plasma
+C-2823-3,Potassium
+C-284551006,Laceration of foot
+C-29303009,Electrocardiographic procedure
+C-2951-2,Sodium
+C-3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma
+C-33762-6,NT-proBNP
+C-762998009,Assessment using New York Heart Association Classification (procedure)
+C-788-0,Erythrocyte distribution width [Ratio] by Automated count
+C-88020-3,Functional capacity NYHA
+C-88021-1,Objective assessment of cardiovascular disease NYHA
+C-88805009,Chronic congestive heart failure (disorder)
+C-89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method
+C-10230-1,Left ventricular Ejection fraction
+C-156073000,Fetus with unknown complication
+C-237602007,Metabolic syndrome X (disorder)
+C-302870006,Hypertriglyceridemia (disorder)
+C-313988,Furosemide 40 MG Oral Tablet
+C-403190006,First degree burn
+C-443165006,Pathological fracture due to osteoporosis (disorder)
+C-703423002,Combined chemotherapy and radiation therapy (procedure)
+C-76164006,Biopsy of colon
+C-109838007,Overlapping malignant neoplasm of colon
+C-301011002,Escherichia coli urinary tract infection
+C-314994000,Metastasis from malignant tumor of prostate (disorder)
+C-44054006,Diabetes
+C-996740,Memantine hydrochloride 2 MG/ML Oral Solution
+C-205923,1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen]
+C-265764009,Renal dialysis (procedure)
+C-7200002,Alcoholism
+C-74006-8,Weight difference [Mass difference] --pre dialysis - post dialysis
+C-74016001,Knee X-ray
+C-80394007,Hyperglycemia (disorder)
+C-55680006,Drug overdose
+C-5602001,Opioid abuse (disorder)
+C-65363002,Otitis media
+C-749882,Norinyl 1+50 28 Day Pack
+C-225158009,Auscultation of the fetal heart
+C-274804006,Evaluation of uterine fundal height
+C-307731004,Injury of tendon of the rotator cuff of shoulder
+C-368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder)
+C-52,Hep A  adult
+C-699253003,Surgical manipulation of joint of knee
+C-71651007,Mammography (procedure)
+C-104091002,Hemoglobin / Hematocrit / Platelet count
+C-1121000119107,Chronic neck pain (finding)
+C-229064008,Movement therapy (regime/therapy)
+C-254837009,Malignant neoplasm of breast (disorder)
+C-28245-9,Abuse Status [OMAHA]
+C-311791003,Information gathering (procedure)
+C-33737001,Fracture of rib
+C-46240-8,History of Hospitalizations+Outpatient visits
+C-46706006,Replacement of contraceptive intrauterine device
+C-55277-8,HIV status
+C-63513-6,Are you covered by health insurance or some other kind of health care plan [PhenX]
+C-71802-3,Housing status
+C-88040-1,Response to cancer treatment
+C-104326007,Measurement of Varicella-zoster virus antibody
+C-104375008,Hepatitis C antibody test
+C-117010004,Urine culture
+C-165829005,Gonorrhea infection test
+C-167271000,Urine protein test
+C-169690007,Rubella screening
+C-269828009,Syphilis infection test
+C-28163009,Skin test for tuberculosis
+C-310861008,Chlamydia antigen test
+C-31676001,Human immunodeficiency virus antigen test
+C-363406005,Malignant tumor of colon
+C-38822007,Cystitis
+C-395123002,Urine screening test for diabetes
+C-443529005,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+C-44608003,Blood typing  RH typing
+C-446654005,Refugee (person)
+C-47758006,Hepatitis B Surface Antigen Measurement
+C-87433001,Pulmonary emphysema (disorder)
+C-19169002,Miscarriage in first trimester
+C-239872002,Osteoarthritis of hip
+C-268425006,Pelvis X-ray
+C-308182,Amoxicillin 250 MG Oral Capsule
+C-359817006,Closed fracture of hip
+C-1719286,10 ML Furosemide 10 MG/ML Injection
+C-198014,Naproxen 500 MG Oral Tablet
+C-2708-6,Oxygen saturation in Arterial blood
+C-271442007,Fetal anatomy study
+C-275833003,Alpha-fetoprotein test
+C-32911000,Homeless (finding)
+C-35999006,Blighted ovum
+C-371908008,Oxygen administration by mask (procedure)
+C-423475008,Heart failure education (procedure)
+C-431182000,Placing subject in prone position (procedure)
+C-62564004,Concussion with loss of consciousness
+C-76601001,Intramuscular injection
+C-1000126,1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+C-118001005,Streptococcus pneumoniae group B antigen test
+C-200033,carvedilol 25 MG Oral Tablet
+C-206905,Ibuprofen 400 MG Oral Tablet [Ibu]
+C-268556000,Urine screening for glucose
+C-35025007,Manual pelvic examination (procedure)
+C-399014008,Vaccination for diphtheria  pertussis  and tetanus
+C-1049625,Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+C-112790001,Nasal sinus endoscopy (procedure)
+C-1659131,piperacillin 2000 MG / tazobactam 250 MG Injection
+C-169553002,Insertion of subcutaneous contraceptive
+C-1807510,150 ML vancomycin 5 MG/ML Injection
+C-428251008,History of appendectomy
+C-59621000,Hypertension
+C-74400008,Appendicitis
+C-91302008,Sepsis (disorder)
+C-93761005,Primary malignant neoplasm of colon
+C-1100184,Donepezil hydrochloride 23 MG Oral Tablet
+C-1190795,Atropine Sulfate 1 MG/ML Injectable Solution
+C-1660014,1 ML Epinephrine 1 MG/ML Injection
+C-314077,lisinopril 20 MG Oral Tablet
+C-410429000,Cardiac Arrest
+C-429007001,History of cardiac arrest (situation)
+C-444448004,Injury of medial collateral ligament of knee
+C-447365002,Insertion of biventricular implantable cardioverter defibrillator
+C-51116004,RhD passive immunization
+C-59557-9,Treatment status Cancer
+C-66348005,Childbirth
+C-749785,Ortho Tri-Cyclen 28 Day Pack
+C-834357,3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+C-997223,Donepezil hydrochloride 10 MG Oral Tablet
+C-110030002,Concussion injury of brain
+C-122548005,Biopsy of breast (procedure)
+C-197319,Allopurinol 100 MG Oral Tablet
+C-2001499,Vitamin B 12 5 MG/ML Injectable Solution
+C-21908-9,Stage group.clinical Cancer
+C-313185,Tacrine 10 MG Oral Capsule
+C-403191005,Second degree burn
+C-433114000,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+C-434363004,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+C-76746007,Cardiovascular stress testing (procedure)
+C-85318-4,HER2 [Presence] in Breast cancer specimen by FISH
+C-85319-2,HER2 [Presence] in Breast cancer specimen by Immune stain
+C-85337-4,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+C-85339-0,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+C-979492,losartan potassium 50 MG Oral Tablet
+C-1571000087109,Ultrasonography of bilateral breasts (procedure)
+C-185086009,Chronic obstructive bronchitis (disorder)
+C-203082005,Fibromyalgia (disorder)
+C-208,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose
+C-209387,Acetaminophen 325 MG Oral Tablet [Tylenol]
+C-242969,4 ML norepinephrine 1 MG/ML Injection
+C-30832001,Rupture of patellar tendon
+C-311995,NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule
+C-312938,Sertraline 100 MG Oral Tablet
+C-33195004,Teleradiotherapy procedure (procedure)
+C-90560007,Gout
+C-1049504,Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+C-1366343,Levonorgestrel 0.00354 MG/HR Drug Implant
+C-1656354,sacubitril 97 MG / valsartan 103 MG Oral Tablet
+C-207,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose
+C-22298006,Myocardial Infarction
+C-236077008,Protracted diarrhea
+C-24623002,Screening mammography (procedure)
+C-2713-6,Oxygen Saturation
+C-309097,Cefuroxime 250 MG Oral Tablet
+C-392021009,Lumpectomy of breast (procedure)
+C-399211009,History of myocardial infarction (situation)
+C-422034002,Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+C-430701006,Resuscitation using intravenous fluid (procedure)
+C-431856006,Chronic kidney disease stage 2 (disorder)
+C-449214001,Transfer to stepdown unit (procedure)
+C-44963-7,Capillary refill [Time] of Nail bed
+C-47505003,Posttraumatic stress disorder
+C-59032-3,Lactate [Mass/volume] in Blood
+C-6072007,Bleeding from anus
+C-748962,Camila 28 Day Pack
+C-8478-0,Mean blood pressure
+C-856980,Acetaminophen/Hydrocodone
+C-88262-1,Gram positive blood culture panel by Probe in Positive blood culture
+C-90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder)
+C-10480-2,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+C-180207008,Intravenous blood transfusion of packed cells (procedure)
+C-182777000,Monitoring of patient (regime/therapy)
+C-22523008,Vasectomy
+C-225337009,Suicide risk assessment (procedure)
+C-228557008,Cognitive and behavioral therapy (regime/therapy)
+C-230265002,Familial Alzheimer's disease of early onset (disorder)
+C-232717009,Coronary artery bypass grafting
+C-239720000,Tear of meniscus of knee
+C-245134,72 HR Fentanyl 0.025 MG/HR Transdermal System
+C-301807007,Removal of subcutaneous contraceptive
+C-305351004,Admit to ICU (procedure)
+C-310325,ferrous sulfate 325 MG Oral Tablet
+C-367336001,Chemotherapy (procedure)
+C-385892002,Mental health screening (procedure)
+C-389221,Etonogestrel 68 MG Drug Implant
+C-415070008,Percutaneous coronary intervention
+C-444470001,Injury of anterior cruciate ligament
+C-47693006,Rupture of appendix
+C-75443-2,Mental health Outpatient Note
+C-80146002,Appendectomy
+C-807283,Mirena 52 MG Intrauterine System
+C-833036,Captopril 25 MG Oral Tablet
+C-84215-3,Mental health Telehealth Note
+C-95417003,Primary fibromyalgia syndrome
+C-105585,Methotrexate 2.5 MG Oral Tablet
+C-1359133,Estrostep Fe 28 Day Pack
+C-1501000119109,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)
+C-1551000119108,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+C-1599803,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule
+C-1601380,palbociclib 100 MG Oral Capsule
+C-1605257,Liletta 52 MG Intrauterine System
+C-169673001,Antenatal RhD antibody screening
+C-183418007,Social case work (regime/therapy)
+C-1860491,12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+C-18946005,Epidural anesthesia
+C-197541,Colchicine 0.6 MG Oral Tablet
+C-198240,Tamoxifen 10 MG Oral Tablet
+C-2119714,5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab 120 MG/ML Injection
+C-241055006,Mammogram - symptomatic (procedure)
+C-259255,Atorvastatin 80 MG Oral Tablet
+C-275272006,Brain damage - traumatic
+C-309043,12 HR Cefaclor 500 MG Extended Release Oral Tablet
+C-31208007,Medical induction of labor
+C-396487001,Sentinel lymph node biopsy (procedure)
+C-427419006,Transformed migraine (disorder)
+C-443497002,Excision of sentinel lymph node (procedure)
+C-69031006,Excision of breast tissue (procedure)
+C-69896004,Rheumatoid arthritis
+C-757594,Jolivette 28 Day Pack
+C-835603,tramadol hydrochloride 50 MG Oral Tablet
+C-83664006,Idiopathic atrophic hypothyroidism
+C-94260004,Secondary malignant neoplasm of colon
+C-966222,Levothyroxine Sodium 0.075 MG Oral Tablet
+C-97331000119101,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)
+C-979485,losartan potassium 25 MG Oral Tablet
+C-1049635,Acetaminophen 325 MG / oxyCODONE Hydrochloride 2.5 MG Oral Tablet
+C-11466000,Cesarean section
+C-1534809,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+C-15724005,Fracture of vertebral column without spinal cord injury
+C-1650142,Doxycycline Monohydrate 100 MG Oral Tablet
+C-1732186,100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+C-1734919,Cyclophosphamide 1000 MG Injection
+C-1873983,ribociclib 200 MG Oral Tablet
+C-197927001,Recurrent urinary tract infection
+C-198992004,Antepartum eclampsia
+C-199224,anastrozole 1 MG Oral Tablet
+C-21924-6,Tumor marker Cancer
+C-234262008,Excision of axillary lymph node (procedure)
+C-237001001,Augmentation of labor
+C-241615005,Magnetic resonance imaging of breast (procedure)
+C-3016-3,Thyrotropin [Units/volume] in Serum or Plasma
+C-3024-7,Thyroxine (T4) free [Mass/volume] in Serum or Plasma
+C-310261,exemestane 25 MG Oral Tablet
+C-385798007,Radiation therapy care (regime/therapy)
+C-387685009,Surgical manipulation of shoulder joint
+C-417181009,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+C-429609002,Lung volume reduction surgery (procedure)
+C-583214,Paclitaxel 100 MG Injection
+C-65588006,Premature birth of newborn
+C-727762,5 ML fulvestrant 50 MG/ML Prefilled Syringe
+C-748856,Yaz 28 Day Pack
+C-748879,Levora 0.15/30 28 Day Pack
+C-749762,Seasonique 91 Day Pack
+C-751905,Trinessa 28 Day Pack
+C-76571007,Septic shock (disorder)
+C-831533,Errin 28 Day Pack
+C-85548006,Episiotomy
+C-993770,Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+C-1014678,cetirizine hydrochloride 10 MG Oral Tablet
+C-10383002,Counseling for termination of pregnancy
+C-104173009,Sputum Culture
+C-1049630,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+C-105078,Penicillin G 375 MG/ML Injectable Solution
+C-106258,Hydrocortisone 10 MG/ML Topical Cream
+C-108290001,Radiation oncology AND/OR radiotherapy (procedure)
+C-10831,Sulfamethoxazole / Trimethoprim
+C-111088007,Latex (substance)
+C-1114085,100 ML zoledronic acid 0.04 MG/ML Injection
+C-1116758,chloroquine phosphate 500 MG Oral Tablet
+C-112798008,Insertion of endotracheal tube (procedure)
+C-113076002,Oral Glucose Tolerance Test
+C-113120007,Interstitial brachytherapy (procedure)
+C-1191,Aspirin
+C-1234995,Rocuronium bromide 10 MG/ML Injectable Solution
+C-128613002,Seizure disorder
+C-132281000119108,Acute deep venous thrombosis (disorder)
+C-1363309,Chlorpheniramine Maleate 4 MG Oral Tablet
+C-1367439,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+C-1373463,canagliflozin 100 MG Oral Tablet
+C-14152002,Intravenous infusion (procedure)
+C-141918,Terfenadine 60 MG Oral Tablet
+C-14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction
+C-1483744,Naltrexone hydrochloride 50 MG Oral Tablet
+C-157141000119108,Proteinuria due to type 2 diabetes mellitus (disorder)
+C-160701002,Social migrant (finding)
+C-161622006,History of lower limb amputation (situation)
+C-1649987,doxycycline hyclate 100 MG
+C-1657981,20 ML tocilizumab 20 MG/ML Injection
+C-1659149,Piperacillin 4000 MG / tazobactam 500 MG Injection
+C-1659263,1 ML heparin sodium  porcine 5000 UNT/ML Injection
+C-1664986,Aztreonam 2000 MG Injection
+C-171231001,Asthma screening
+C-1723208,10 ML Alfentanil 0.5 MG/ML Injection
+C-1729584,remifentanil 2 MG Injection
+C-1732136,1 ML Morphine Sulfate 5 MG/ML Injection
+C-1734006,Fracture of the vertebral column with spinal cord injury
+C-1735006,10 ML Fentanyl 0.05 MG/ML Injection
+C-1737449,10 ML Pamidronate Disodium 3 MG/ML Injection
+C-1740467,2 ML Ondansetron 2 MG/ML Injection
+C-177157003,Spontaneous breech delivery
+C-1790099,10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+C-1791701,10 ML Fluorouracil 50 MG/ML Injection
+C-180030006,Amputation of right foot
+C-1807513,vancomycin 1000 MG Injection
+C-1808217,100 ML Propofol 10 MG/ML Injection
+C-1809104,5 ML SUFentanil 0.05 MG/ML Injection
+C-183450002,Admission to burn unit
+C-183856001,Referral to hypertension clinic
+C-1856546,Kyleena 19.5 MG Intrauterine System
+C-1870230,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+C-1940648,neratinib 40 MG Oral Tablet
+C-1946840,Verzenio 100 MG Oral Tablet
+C-195967001,Asthma
+C-1960-4,Bicarbonate [Moles/volume] in Arterial blood
+C-197378,Astemizole 10 MG Oral Tablet
+C-197591,Diazepam 5 MG Oral Tablet
+C-198440,Acetaminophen 500 MG Oral Tablet
+C-1988-5,C reactive protein [Mass/volume] in Serum or Plasma
+C-19994-3,Oxygen/Inspired gas setting [Volume Fraction] Ventilator
+C-200064,letrozole 2.5 MG Oral Tablet
+C-200243,sevoflurane 1000 MG/ML Inhalant Solution
+C-200346,Cefdinir
+C-200936003,Lupus erythematosus
+C-2019-8,Carbon dioxide [Partial pressure] in Arterial blood
+C-2047241,baricitinib 2 MG Oral Tablet
+C-204892,clonazePAM 0.25 MG Oral Tablet
+C-2103182,1 ML Vasopressin (USP) 20 UNT/ML Injection
+C-212,SARS-COV-2 (COVID-19) vaccine  vector non-replicating  recombinant spike protein-Ad26  preservative free  0.5 mL
+C-212446,Azithromycin 250mg
+C-2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma
+C-225444004,At risk for suicide (finding)
+C-2284960,remdesivir 100 MG Injection
+C-232967006,Implantation of left ventricular assist device (procedure)
+C-233604007,Pneumonia (disorder)
+C-234466008,Acquired coagulation disorder (disorder)
+C-235919008,Cholelithiasis
+C-236931002,Methotrexate injection into tubal pregnancy
+C-236974004,Instrumental delivery
+C-238100,Lorazepam 2 MG/ML Injectable Solution
+C-241834,cycloSPORINE  modified 100 MG Oral Capsule
+C-243063003,Postoperative procedure education (procedure)
+C-243174005,Weaning from mechanically assisted ventilation (procedure)
+C-246677007,Passive conjunctival congestion (finding)
+C-248595008,Sputum finding (finding)
+C-249497008,Vomiting symptom (finding)
+C-25037,cefdinir
+C-25064002,Headache (finding)
+C-256277009,Grass pollen (substance)
+C-261352009,Face mask (physical object)
+C-262574004,Bullet wound
+C-264287008,Animal dander (substance)
+C-26453-1,Red Blood Cell
+C-26464-8,White Blood Cell (Elevated)
+C-26515-7,Platelet Count
+C-266934004,Transport problems (finding)
+C-267036007,Dyspnea (finding)
+C-267060006,Diarrhea symptom (finding)
+C-267102003,Sore throat symptom (finding)
+C-26763009,Controlled ventilation procedure and therapy  initiation and management (procedure)
+C-26881-3,Interleukin 6 [Mass/volume] in Serum or Plasma
+C-2703-7,Oxygen [Partial pressure] in Arterial blood
+C-271280005,Removal of endotracheal tube (procedure)
+C-271825005,Respiratory distress (finding)
+C-2744-1,pH of Arterial blood
+C-27942005,Shock (disorder)
+C-281790008,Intravenous antibiotic therapy
+C-287664005,Bilateral tubal ligation
+C-288328004,Bee venom (substance)
+C-29046,Lisinopril
+C-302497006,Hemodialysis (procedure)
+C-30385-9,RBC Distribution Width
+C-30428-7,MCV
+C-305340004,Admission to long stay hospital
+C-305425002,Admission to neurosurgical department
+C-305433001,Admission to trauma surgery department
+C-308460,Azithromycin 250 MG Oral Tablet
+C-308971,Carbamazepine[Tegretol]
+C-309845,Diazepam 5 MG/ML Injectable Solution
+C-311372,Loratadine 10 MG Oral Tablet
+C-311700,Midazolam 1 MG/ML Injectable Solution
+C-312615,predniSONE 20 MG Oral Tablet
+C-313002,Sodium Chloride 9 MG/ML Injectable Solution
+C-32413006,Transplantation of heart (procedure)
+C-33037-3,Anion Gap
+C-33959-8,Procalcitonin [Mass/volume] in Serum or Plasma
+C-351266,buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+C-36955009,Loss of taste (finding)
+C-38102005,Open Removal of Gall Bladder
+C-384692006,Intracavitary brachytherapy (procedure)
+C-386394001,Pregnancy termination care
+C-386661006,Fever (finding)
+C-387607004,Construction of diverting colostomy
+C-389087006,Hypoxemia (disorder)
+C-398254007,Preeclampsia
+C-40095003,Injury of kidney (disorder)
+C-40275004,Contact dermatitis
+C-403192003,Third degree burn
+C-40617009,Artificial respiration (procedure)
+C-408512008,Body mass index 40+ - severely obese (finding)
+C-408919008,Psychosocial care (regime/therapy)
+C-422587007,Nausea (finding)
+C-426701000119108,Ultrasonography of abdomen  right upper quadrant and epigastrium
+C-42719-5,Total Bilirubin (Elevated)
+C-429280009,History of amputation of foot (situation)
+C-43060002,Intravenous injection (procedure)
+C-433144002,Chronic kidney disease stage 3 (disorder)
+C-43724002,Chill (finding)
+C-445912000,Excision of fallopian tube and surgical removal of ectopic pregnancy
+C-447759004,Brachytherapy of breast (procedure)
+C-448417001,Sepsis caused by Staphylococcus aureus
+C-448813005,Sepsis caused by Pseudomonas (disorder)
+C-45595009,Laparoscopic Removal of Gall Bladder
+C-45816000,Pyelonephritis
+C-47200007,Non-low risk pregnancy
+C-48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma
+C-48333001,Burn injury(morphologic abnormality)
+C-483438,pregabalin 100 MG Oral Capsule
+C-48387007,Incision of trachea (procedure)
+C-49727002,Cough (finding)
+C-52734007,Total replacement of hip
+C-52765003,Intubation
+C-542347,Isoflurane 999 MG/ML Inhalant Solution
+C-54550000,Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+C-56018004,Wheezing (finding)
+C-562366,desflurane 1000 MG/ML Inhalation Solution
+C-5640,Ibuprofen
+C-57676002,Joint pain (finding)
+C-5902-2,Prothrombin time (PT)
+C-5905-5,Monocytes/100 leukocytes in Blood by Automated count
+C-596926,duloxetine 20 MG Delayed Release Oral Capsule
+C-597195,Carboplatin 10 MG/ML Injectable Solution
+C-60951000119105,Blindness due to type 2 diabetes mellitus (disorder)
+C-609588000,Total knee replacement
+C-61594008,Microbial culture (procedure)
+C-6301-6,INR in Platelet poor plasma by Coagulation assay
+C-65275009,Acute Cholecystitis
+C-65710008,Oxygen Therapy
+C-66857006,Hemoptysis (finding)
+C-672149,lapatinib 250 MG Oral Tablet
+C-67782005,Acute respiratory distress syndrome (disorder)
+C-68235000,Nasal congestion (finding)
+C-68962001,Muscle pain (finding)
+C-698423002,History of disarticulation at wrist (situation)
+C-698754002,Chronic paralysis due to lesion of spinal cord
+C-703151001,History of single seizure (situation)
+C-704-7,Basophils [#/volume] in Blood by Automated count
+C-706-2,Basophils/100 leukocytes in Blood by Automated count
+C-706870000,Acute pulmonary embolism (disorder)
+C-711-2,Eosinophils [#/volume] in Blood by Automated count
+C-713458007,Lack of access to transportation (finding)
+C-713-8,Eosinophils/100 leukocytes in Blood by Automated count
+C-714812005,Induced termination of pregnancy
+C-727711,0.67 ML anakinra 149 MG/ML Prefilled Syringe
+C-731-0,Lymphocytes [#/volume] in Blood by Automated count
+C-736-9,Lymphocytes/100 leukocytes in Blood by Automated count
+C-742-7,Monocytes [#/volume] in Blood by Automated count
+C-751-8,Neutrophils [#/volume] in Blood by Automated count
+C-770349000,Sepsis caused by virus (disorder)
+C-770-8,Neutrophils/100 leukocytes in Blood by Automated count
+C-782576004,Tree pollen (substance)
+C-789980,Ampicillin 100 MG/ML Injectable Solution
+C-79586000,Tubal pregnancy
+C-79733001,Amputation of right leg
+C-7984,Penicillin V
+C-80382-5,Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay
+C-80383-3,Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay
+C-82078001,Take blood sample
+C-833135,Milnacipran hydrochloride 100 MG Oral Tablet
+C-840539006,COVID-19
+C-840544004,Suspected COVID-19
+C-84114007,Heart failure (disorder)
+C-84229001,Fatigue (finding)
+C-84489001,Mold (organism)
+C-84757009,Epilepsy
+C-854228,0.3 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+C-854235,0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+C-854252,1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+C-86175003,Injury of heart (disorder)
+C-864706,methadone hydrochloride 10 MG Oral Tablet
+C-865098,Insulin Lispro 100 UNT/ML Injectable Solution [Humalog]
+C-87628006,Bacterial infectious disease (disorder)
+C-876882001,Died in hospice (finding)
+C-88039007,Transplant of lung (procedure)
+C-897122,3 ML liraglutide 6 MG/ML Pen Injector
+C-92130-4,Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection
+C-92131-2,Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection
+C-92134-6,Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection
+C-92138-7,Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection
+C-92139-5,Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection
+C-92140-3,Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection
+C-92141-1,Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection
+C-92142-9,Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection
+C-94040-3,Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection
+C-94531-1,SARS-CoV-2 RNA Pnl Resp NAA+probe
+C-978950,Natazia 28 Day Pack
+C-979092,Hydroxychloroquine Sulfate 200 MG Oral Tablet
+C-993452,1 ML denosumab 60 MG/ML Prefilled Syringe
+C-997501,Fexofenadine hydrochloride 60 MG Oral Tablet
+C-999998,Leronlimab 700 MG Injection
+C-999999,Lenzilumab 200 MG IV
+C-161621004,History of upper limb amputation (situation)
+C-86849004,Suicidal deliberate poisoning
+C-74857009,Hospital admission  short-term  24 hours
+C-1658084,ado-trastuzumab emtansine 100 MG Injection
+C-88848003,Psychiatric follow-up
+C-260147004,House dust mite (organism)
+C-90407005,Evaluation of psychiatric state of patient
+C-13569004,Transfusion of plasma (procedure)
+C-287182007,Attempted suicide - suffocation
+C-190905008,Cystic Fibrosis
+C-198767,Pancreatin 600 MG Oral Tablet
+C-205532,Pulmozyme (Dornase Alfa)
+C-232657004,Lung Transplant
+C-287185009,Attempted suicide - cut/stab
+C-313572,Vancomycin 50 MG/ML Injectable Solution
+C-406602003,Infection caused by Staphylococcus aureus
+C-427089005,Diabetes from Cystic Fibrosis
+C-444260001,20 Gene mutation test
+C-707418001,Male infertility due to cystic fibrosis (disorder)
+C-86964003,Sweat Test
+C-103746007,Heparin therapy (procedure)
+C-1191222,naloxone hydrochloride 0.4 MG/ML Injectable Solution
+C-13995008,Amputation of right arm
