@@ -49,9 +49,7 @@ All of the open Synthea patient datasets are available in [Harvard Dataverse: Sy
 
 ## More Synthea patient data
 
-Synthea patient generator is very powerful, thanks to the MITRE team. It has modeled over 100 diseases and conditions already. You can essentially generate a synthetic EHR with millions of patients on your server. In addition, if you need patient data for any disease and condition that is not covered by Synthea yet, Synthea allows you to model the disease or condition and generate new relevant synthetic data. 
-
-Contact: If you need suggestion or help for generating and using Synthea data, you may contact AJ Chen    
+Synthea patient generator is very powerful, thanks to the MITRE team. It has modeled over 100 diseases and conditions already. You can essentially generate a synthetic EHR with millions of patients on your server. In addition, if you need patient data for any disease and condition that is not covered by Synthea yet, Synthea allows you to model the disease or condition and generate new relevant synthetic data.   
 
 **Contact**: If you need suggestion or help for generating and using Synthea data, you may contact AJ Chen (ajchen at web2express.org), Co-Chair of [LHS Tech Forum Initiative](https://www.learninghealth.org/2020-lhs-technology-forum), Learning Health Community. 
 
